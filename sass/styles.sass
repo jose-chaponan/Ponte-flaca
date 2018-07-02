@@ -4,3 +4,43 @@ $color_verde_hover: #C6D147
 $color_negro:       #444242
 $color_gris:        #2E2E2E
 $color_blanco:      #ffffff
+
+@media all and (min-width: 1px)
+    // body
+    //     font-family:
+    nav
+        width: 90%
+        height: 20vh
+        min-height: 137px
+        position: absolute
+        top: 0
+        left: 0
+        right: 0
+        margin: auto
+        .logo
+            width: 15%
+            img
+                width: 100%
+        .menu
+            li
+                display: inline-block
+                vertical-align: middle
+        aside
+            border-left: 1px solid $color_verde
+            padding-left: 1.5vw
+            margin-left: 1.5vw
+            a
+                margin: 0 .9vw
+                display: block
+                svg
+                    height: 4vh
+                    width: auto
+                    transition: all ease-in-out
+
+                .rss_header
+                    fill: $color_verde
+                .color_blanco
+                    fill: $color_blanco
+            .suscribete
+                svg
+                    height: 5.5vh
