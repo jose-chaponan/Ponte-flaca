@@ -2,14 +2,20 @@
 <html lang="es" dir="ltr">
     <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
         <title>Ponte Flaca</title>
 
         <link rel="stylesheet" href="http://bastemp.com/css/bastemp.min.css?ver=1.1.2">
-        <link rel="stylesheet" href="css/styles.min.css?ver=1.0.0">
+        <link rel="stylesheet" href="plugins/slick/slick.css">
+        <link rel="stylesheet" href="plugins/slick/slick-theme.css">
+        <link rel="stylesheet" href="css/styles.min.css?ver=1.1.0">
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" charset="utf-8"></script>
         <script src="http://bastemp.com/js/bastemp.min.js?ver=1.1.2" charset="utf-8"></script>
-        <script src="js/ready.min.js" charset="utf-8"></script>
+        <script src="plugins/slick/slick.min.js" charset="utf-8"></script>
+        <script src="plugins/parallax/parallax.min.js" charset="utf-8"></script>
+        <script src="plugins/instafeed/instafeed.min.js" charset="utf-8"></script>
+        <script src="js/ready.min.js?ver=1.0.1" charset="utf-8"></script>
 
     </head>
     <body class="section_top_center">
