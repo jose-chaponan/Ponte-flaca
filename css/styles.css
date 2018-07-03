@@ -75,10 +75,10 @@ body {
     padding: 0 1vw;
   }
   nav .menu li a:hover {
-    color: #99BD2C;
+    color: #91c100;
   }
   nav aside {
-    border-left: 1px solid #99BD2C;
+    border-left: 1px solid #91c100;
     padding-left: 1.5vw;
     margin-left: 1.5vw;
   }
@@ -92,7 +92,7 @@ body {
     transition: all ease-in-out;
   }
   nav aside a svg .rss_header {
-    fill: #99BD2C;
+    fill: #91c100;
   }
   nav aside a svg .color_blanco {
     fill: #ffffff;
@@ -232,7 +232,7 @@ body {
     margin: 0;
     width: 80%;
     text-align: center;
-    color: #99BD2C;
+    color: #91c100;
   }
   .blog section {
     width: 80%;
@@ -270,12 +270,15 @@ body {
     font-size: 1.2rem;
   }
   .blog section a:hover {
-    background-color: #99BD2C;
+    background-color: #91c100;
   }
 
+  .conoce_ponteFlaca {
+    margin-top: 25vh;
+  }
   .conoce_ponteFlaca h2 {
     color: #434040;
-    font-size: 10rem;
+    font-size: 9rem;
     text-align: center;
     font-family: "DJBMessyAmandaGoesBold";
     margin: 0;
@@ -285,7 +288,7 @@ body {
     margin-bottom: 1vh;
     margin: 0;
     text-align: center;
-    color: #99BD2C;
+    color: #91c100;
     font-family: "DJBMessyAmandaGoesBold";
   }
   .conoce_ponteFlaca h4 {
@@ -297,16 +300,16 @@ body {
     font-size: 2.5rem;
     text-align: justify;
     width: 90%;
-    margin-bottom: 10vh;
+    margin-bottom: 5vh;
   }
   .conoce_ponteFlaca img {
-    width: 25%;
+    width: 20%;
   }
 
   .blog_habitos h2 {
     font-family: "DJBMessyAmandaGoesBold";
     text-align: center;
-    color: #99BD2C;
+    color: #91c100;
     font-size: 8rem;
   }
   .blog_habitos p {
@@ -326,10 +329,13 @@ body {
     margin-top: 10vh;
   }
 
+  .habitos {
+    margin-top: 15vh;
+  }
   .habitos h2 {
     font-family: "DJBMessyAmandaGoesBold";
     text-align: center;
-    color: #99BD2C;
+    color: #91c100;
   }
   .habitos div {
     margin-top: 10vh;
@@ -340,7 +346,7 @@ body {
     line-height: 3vw;
   }
   .habitos strong {
-    color: #99BD2C;
+    color: #91c100;
     font-size: 2.5rem;
     line-height: 8vh;
   }
@@ -354,6 +360,7 @@ body {
     padding: 2vh 6vh 2vh 6vh;
     border-radius: 2vh;
     font-size: 2rem;
+    margin-bottom: 3vh;
   }
 
   section {
@@ -381,10 +388,10 @@ body {
   }
 
   .formulario {
-    background-color: #99BD2C;
+    background-color: #91c100;
   }
   .formulario h2 {
-    font-size: 4rem;
+    font-size: 5.5rem;
   }
   .formulario section {
     width: 80%;
@@ -394,15 +401,16 @@ body {
   }
   .formulario section article h3 {
     color: #ffffff;
+    font-size: 2.4rem;
   }
   .formulario section article h4 {
-    font-size: 1.8rem;
+    font-size: 2rem;
     color: #ffffff;
   }
   .formulario section article p {
     margin: 1vw 0;
     font-weight: 700;
-    font-size: 1.8rem;
+    font-size: 2.3rem;
   }
   .formulario section article p a {
     color: #434040;
@@ -423,17 +431,18 @@ body {
   .formulario section form input,
   .formulario section form textarea {
     border-radius: 10px;
-    padding: 10px;
+    padding: 18px;
+    margin-bottom: 2vh;
     font-family: "ScotiabankModern-Bold";
     font-weight: 700;
   }
   .formulario section form input[type="submit"] {
     width: 50%;
     color: #ffffff;
-    background-color: #B8D841;
+    background-color: #006A5B;
     border: none;
     font-size: 2rem;
-    margin: 5vh 0 5vh;
+    margin: 1vh 0 5vh;
     cursor: pointer;
     font-weight: 700;
   }
@@ -529,9 +538,6 @@ body {
     width: 32%;
   }
 
-  .formulario section {
-    width: 70%;
-  }
   .formulario section article,
   .formulario section form {
     width: 48%;

@@ -1,6 +1,6 @@
 @import _fuentes
 
-$color_verde:       #99BD2C
+$color_verde:       #91c100
 $color_verde_frm:   #006A5B
 $color_verde_lima:  #B8D841
 $color_verde_hover: #C6D147
@@ -223,9 +223,10 @@ body
                 background-color: $color_verde
 
     .conoce_ponteFlaca
+        margin-top: 25vh
         h2
             color: $color_negro
-            font-size: 10rem
+            font-size: 9rem
             text-align: center
             font-family: $fuente_Goes_bold
             margin: 0
@@ -245,9 +246,9 @@ body
             font-size: 2.5rem
             text-align: justify
             width: 90%
-            margin-bottom: 10vh
+            margin-bottom: 5vh
         img
-            width: 25%
+            width: 20%
     .blog_habitos
         h2
             font-family: $fuente_Goes_bold
@@ -270,6 +271,7 @@ body
             margin-top: 10vh
 
     .habitos
+        margin-top: 15vh
         h2
             font-family: $fuente_Goes_bold
             text-align: center
@@ -294,6 +296,7 @@ body
             padding: 2vh 6vh 2vh 6vh
             border-radius: 2vh
             font-size: 2.0rem
+            margin-bottom: 3vh
 
     section
         width: 80%
@@ -317,20 +320,21 @@ body
     .formulario
         background-color: $color_verde
         h2
-            font-size: 4rem
+            font-size: 5.5rem
         section
             width: 80%
             article
                 width: 100%
                 h3
                     color: $color_blanco
+                    font-size: 2.4rem
                 h4
-                    font-size: 1.8rem
+                    font-size: 2.0rem
                     color: $color_blanco
                 p
                     margin: 1vw 0
                     font-weight: 700
-                    font-size: 1.8rem
+                    font-size: 2.3rem
                     a
                         color: $color_negro
                 aside
@@ -346,17 +350,18 @@ body
                 input,
                 textarea
                     border-radius: 10px
-                    padding: 10px
+                    padding: 18px
+                    margin-bottom: 2vh
                     font-family: $fuente_principal
                     font-weight: 700
-                
+
                 input[type="submit"]
                     width: 50%
                     color: $color_blanco
-                    background-color: $color_verde_lima
+                    background-color: $color_verde_frm
                     border: none
                     font-size: 2rem
-                    margin: 5vh 0 5vh
+                    margin: 1vh 0 5vh
                     cursor: pointer
                     font-weight: 700
                 input[type="submit"]:hover
@@ -366,7 +371,6 @@ body
 
         img
             width: 80%
-
 
 @media all and (min-width: 1024px)
     .slider_home
@@ -440,11 +444,10 @@ body
 
     .formulario
         section
-            width: 70%
             article,
             form
                 width: 48%
-    
+
     .logo_footer
         img
             width: 20%

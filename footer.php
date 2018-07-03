@@ -56,5 +56,9 @@
         <div class="w_100 section_top_center logo_footer">
             <img src="images/logo.png" alt="">
         </div>
+        <!-- <div class="derechos align_right w_100">
+            © 2018 Lengua Publicidad. Todos los derechos reservados.
+        </div> -->
     </body>
+
 </html>
