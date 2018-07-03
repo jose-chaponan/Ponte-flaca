@@ -8,11 +8,7 @@
         <link rel="stylesheet" href="http://bastemp.com/css/bastemp.min.css?ver=1.1.2">
         <link rel="stylesheet" href="plugins/slick/slick.css">
         <link rel="stylesheet" href="plugins/slick/slick-theme.css">
-<<<<<<< HEAD
-        <link rel="stylesheet" href="css/styles.min.css?ver=1.1.1">
-=======
         <link rel="stylesheet" href="css/styles.min.css?ver=1.1.2">
->>>>>>> 5fa2bfd787d23e3935d71759c0d952bcd2feb335
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" charset="utf-8"></script>
         <script src="http://bastemp.com/js/bastemp.min.js?ver=1.1.2" charset="utf-8"></script>
