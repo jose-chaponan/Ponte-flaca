@@ -347,6 +347,29 @@ body {
   .formulario section form input,
   .formulario section form textarea {
     border-radius: 10px;
+    padding: 10px;
+    font-family: "ScoMoBol";
+    font-weight: 700;
+  }
+  .formulario section form input[type="submit"] {
+    width: 50%;
+    color: #ffffff;
+    background-color: #B8D841;
+    border: none;
+    font-size: 2rem;
+    margin: 5vh 0 5vh;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  .formulario section form input[type="submit"]:hover {
+    background-color: #C6D147;
+  }
+
+  .logo_footer {
+    padding: 5vh 0;
+  }
+  .logo_footer img {
+    width: 80%;
   }
 }
 @media all and (min-width: 1024px) {
@@ -436,5 +459,9 @@ body {
   .formulario section article,
   .formulario section form {
     width: 48%;
+  }
+
+  .logo_footer img {
+    width: 20%;
   }
 }

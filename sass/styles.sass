@@ -267,6 +267,27 @@ body
                 input,
                 textarea
                     border-radius: 10px
+                    padding: 10px
+                    font-family: $fuente_principal
+                    font-weight: 700
+                
+                input[type="submit"]
+                    width: 50%
+                    color: $color_blanco
+                    background-color: $color_verde_lima
+                    border: none
+                    font-size: 2rem
+                    margin: 5vh 0 5vh
+                    cursor: pointer
+                    font-weight: 700
+                input[type="submit"]:hover
+                    background-color: $color_verde_hover
+    .logo_footer
+        padding: 5vh 0
+
+        img
+            width: 80%
+
 
 @media all and (min-width: 1024px)
     .slider_home
@@ -344,3 +365,7 @@ body
             article,
             form
                 width: 48%
+    
+    .logo_footer
+        img
+            width: 20%
