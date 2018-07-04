@@ -3,7 +3,7 @@
 ?>
     <section class="habitos section_middle_center w_100 ">
         <h2>5 pasos para reinventar </br>los hábitos alimenticios</h2>
-        <img src="images/images_wp/blog3.jpg" width="90%">
+        <section class="section_top_center w_90 portadas_blog parallax-container" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/blog3.jpg"></section>
         <article class="section_top_justify w_80">
                 <div>
                     <p>21 Feb 5 pasos para reinventar los hábitos alimenticios</br> Creado el: 00:47h in Uncategorized por ponte ﬂaca 0 Comentarios  1 Like Comparte</p>

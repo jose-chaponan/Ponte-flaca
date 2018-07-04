@@ -195,6 +195,8 @@ body {
     text-align: justify;
     margin: 2vh 0;
     line-height: 1.2;
+    font-family: "ScotiabankModern";
+    font-size: 1.5rem;
   }
 
   .brindamos {
@@ -213,17 +215,17 @@ body {
   .brindamos article h3 {
     color: #B8D841;
     text-align: center;
-    font-size: 3rem;
+    font-size: 3.5rem;
   }
   .brindamos article ul {
     list-style: disc;
-    margin-left: 2vw;
+    margin-left: 3vw;
   }
   .brindamos article ul li {
     color: #ffffff;
     font-family: "Bariol-Regular";
     padding: 0.2vw 0;
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: 100;
   }
 
@@ -254,14 +256,15 @@ body {
     margin: 2vw auto;
   }
   .blog section a h4 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     min-height: 50px;
     text-align: center;
   }
   .blog section a .contenido {
     text-align: justify;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     margin-bottom: 10vh;
+    font-family: "ScotiabankModern";
   }
   .blog section a .fecha {
     position: absolute;
@@ -271,6 +274,10 @@ body {
   }
   .blog section a:hover {
     background-color: #91c100;
+  }
+
+  .portadas_blog {
+    height: 70vh;
   }
 
   .conoce_ponteFlaca {
@@ -456,6 +463,20 @@ body {
   .logo_footer img {
     width: 80%;
   }
+  .logo_footer .suscribete_footer img {
+    width: 60%;
+  }
+
+  .derechos {
+    background-color: #2E2E2E;
+    padding: 2vh 2vw;
+    color: #ffffff;
+    font-size: 1.4rem;
+    font-family: "ScotiabankModern";
+  }
+  .derechos img {
+    width: 3%;
+  }
 }
 @media all and (min-width: 1024px) {
   .slider_home .img_fondo {
@@ -483,7 +504,7 @@ body {
   }
 
   .brindamos article {
-    width: 60%;
+    width: 55%;
     background-size: 100% 100%;
   }
   .brindamos article::before,
@@ -545,5 +566,8 @@ body {
 
   .logo_footer img {
     width: 20%;
+  }
+  .logo_footer .suscribete_footer img {
+    width: 11%;
   }
 }
