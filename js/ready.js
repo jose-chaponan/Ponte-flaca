@@ -24,8 +24,8 @@ $(document).ready(function() {
 			get: 'user',
 			resolution: 'standard_resolution',
 			limit: 9,
-			userId: '4123126169',
-			accessToken: '4123126169.3a81a9f.b451309aa5d14b19b074bc844b573c27',
+			userId: '6076431243',
+			accessToken: '6076431243.1677ed0.c80b9633dad9450c9097b1b05c9e05c9',
 			template: '<div class="foto_insta"><a href="{{link}}" target="_blank" class="section_top_center"><img src="{{image}}" class="w_100" /></a></div>'
 		});
 		userFeed.run();

@@ -15,7 +15,7 @@
         <script src="plugins/slick/slick.min.js" charset="utf-8"></script>
         <script src="plugins/parallax/parallax.min.js" charset="utf-8"></script>
         <script src="plugins/instafeed/instafeed.min.js" charset="utf-8"></script>
-        <script src="js/ready.min.js?ver=1.0.2" charset="utf-8"></script>
+        <script src="js/ready.min.js?ver=1.0.3" charset="utf-8"></script>
 
     </head>
     <body class="section_top_center">
