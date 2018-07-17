@@ -4,7 +4,7 @@
     <section class="conoce_ponteFlaca section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="bottom" data-image-src="images/images_wp/team.jpg">
         <div>
             <h2>Toda aventura </br>empieza con un</h2>
-            <h3>¡Si puedo!</h3>
+            <h3>¡Sí puedo!</h3>
             <h4>Conoce un poco más de nosotras y aventúrate</br> a un nuevo y saludable estilo de vida.</h4>
         </div>
     </section>

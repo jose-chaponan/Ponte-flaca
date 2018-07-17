@@ -8,14 +8,14 @@
                 <img src="images/images_wp/blog1.jpg" width="90%">
                 <p>Hoy desde Ponte Flaca te compartimos 5 pasos para reinventar los hábitos alimenticios y decirle ¡adiós a la cruel dieta! Así es ¡no a las dietas! Empezamos por olvidarnos de las dietas, de privarnos y sufrir, innecesariamente por lo que no podemos comer.</br>Es mejor entender que..</p>
                 <div class="section_bottom_center w_100">
-                    <a href="detalle_blog_habitos.php">Seguir leyendo</a>
+                    <a href="detalle_blog_habitos.php">Seguir leyendo >> </a>
                 </div>
 
                 <h2>Universo Ponte Flaca</h2>
                 <img src="images/images_wp/blog2.jpg" width="90%">
                 <p>Mi nombre es Carmen y soy quién administra el universo llamado “Ponte Flaca” Desde siempre sentí la curiosidad por la cocina, porque amo comer y además porque me parecía un lugar mágico donde entraban frutas y vegetales y salían platos deliciosos. De grande me aventuré a..</p>
                 <div class="section_bottom_center w_100">
-                    <a href="detalle_blog_universo.php">Seguir leyendo</a>
+                    <a href="detalle_blog_universo.php">Seguir leyendo >></a>
                 </div>
 
             </section>
