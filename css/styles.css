@@ -63,6 +63,7 @@ body {
   }
   nav .logo img {
     width: 90%;
+    height: auto;
   }
   nav .menu li {
     display: inline-block;

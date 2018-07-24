@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="http://bastemp.com/css/bastemp.min.css?ver=1.1.2">
         <link rel="stylesheet" href="plugins/slick/slick.css">
         <link rel="stylesheet" href="plugins/slick/slick-theme.css">
-        <link rel="stylesheet" href="css/styles.min.css?ver=1.1.9">
+        <link rel="stylesheet" href="css/styles.min.css?ver=1.1.10">
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" charset="utf-8"></script>
         <script src="http://bastemp.com/js/bastemp.min.js?ver=1.1.2" charset="utf-8"></script>
@@ -20,7 +20,9 @@
     </head>
     <body class="section_top_center">
         <nav class="section_middle_justify">
-            <a href="index.php" class="logo" data-minwidth="200"><img src="images/logo.png" alt=""></a>
+            <div class="logo" data-minwidth="200">
+                <a href="index.php"><img src="images/logo.png" alt=""></a>
+            </div>
             <section class="section_middle_right">
                 <ul class="menu">
                     <li><a href="index.php">Inicio</a></li>
