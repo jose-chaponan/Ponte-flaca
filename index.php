@@ -56,7 +56,7 @@
         <h2 class="w_80 align_center">Blog</h2>
         <h3>En este espacio compartiré mis consejos y recetas.</h3>
         <section class="section_top_justify">
-            <a href="#">
+            <a href="detalle_blog_universo.php">
                 <div class="img_fondo" data-image="images/images_wp/blog3.jpg">&nbsp;</div>
                 <h4 class="w_70 section_middle_center">5 Pasos para reinventar los hábitos alimenticios</h4>
                 <div class="contenido w_90">
@@ -66,7 +66,7 @@
                     21 febrero, 2018
                 </div>
             </a>
-            <a href="#">
+            <a href="detalle_blog_universo.php">
                 <div class="img_fondo" data-image="images/images_wp/blog4.jpg">&nbsp;</div>
                 <h4 class="w_70 section_middle_center">Universo Ponte Flaca</h4>
                 <div class="contenido w_90">
