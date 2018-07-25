@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="plugins/slick/slick.css">
         <link rel="stylesheet" href="plugins/slick/slick-theme.css">
         <link rel="stylesheet" href="css/styles.min.css?ver=1.2.0">
+        <link rel="stylesheet" href="css/styles.min.css?ver=1.2.7">
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" charset="utf-8"></script>
         <script src="http://bastemp.com/js/bastemp.min.js?ver=1.1.2" charset="utf-8"></script>

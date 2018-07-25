@@ -1,3 +1,4 @@
+        <a href="" class="whatsapp" data-minwidth="40"><img src="images/whatsapp.svg" alt=""></a>
         <section class="w_100 formulario section_top_center">
             <section class="section_middle_justify">
                 <h2 class="w_100 align_center">¿Tienes alguna consulta?</h2>
