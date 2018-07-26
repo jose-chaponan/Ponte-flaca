@@ -427,6 +427,9 @@ body {
     width: 80%;
   }
 
+  .instagram {
+    background-color: #ffffff;
+  }
   .instagram .logo_instagram {
     width: 20%;
     margin: 2vw 0 5vh;
@@ -754,14 +757,27 @@ body {
   }
 
   .formulario h2 {
-    font-size: 5.5rem;
+    font-size: 4.7rem;
   }
   .formulario section article,
   .formulario section form {
     width: 48%;
   }
+  .formulario section article input,
+  .formulario section form input {
+    padding: 1vw 1.5vw;
+  }
+  .formulario section article input[type="submit"],
+  .formulario section form input[type="submit"] {
+    width: 40%;
+  }
+  .formulario section article label,
+  .formulario section form label {
+    font-size: 2.2rem;
+  }
   .formulario section article p {
     font-size: 2.3rem;
+    width: 93%;
   }
   .formulario section form {
     margin-top: 0;
