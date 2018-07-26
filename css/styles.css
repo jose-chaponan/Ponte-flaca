@@ -92,6 +92,7 @@ body {
   }
   nav aside {
     border-left: 0px solid #91c100;
+    border-left-width: 1px;
     width: 100%;
   }
   nav aside a {
@@ -130,6 +131,13 @@ body {
     width: 100%;
     height: 100vh;
     background-size: auto 100%;
+  }
+  .slider_home .img_fondo h3 {
+    font-family: "DJBMessyAmandaGoesBold";
+    font-size: 10rem;
+    width: 36%;
+    text-align: center;
+    line-height: 1;
   }
 
   .team {
