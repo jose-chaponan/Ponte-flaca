@@ -21,7 +21,7 @@
 
     <section class="section_middle_center w_100 team">
         <a href="team.php" data-minwidth="250">
-            <img src="images/team.png" alt="">
+            <img src="images/team2.png" alt="">
         </a>
     </section>
 
