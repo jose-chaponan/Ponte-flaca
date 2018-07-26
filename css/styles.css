@@ -41,7 +41,7 @@ body {
   .slick-dots li {
     width: 5vw;
     height: 5vw;
-    background-color: #B8D841;
+    background-color: #2E2E2E;
     border-radius: 50%;
   }
   .slick-dots li button {
@@ -573,8 +573,8 @@ body {
 }
 @media all and (min-width: 1024px) {
   .slick-dots li {
-    width: 2vw;
-    height: 2vw;
+    width: 1.3vw;
+    height: 1.3vw;
   }
 
   nav {

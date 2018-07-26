@@ -16,10 +16,13 @@ $(document).ready(function() {
     $(".slider_home").slick({
         dots: true,
         infinite: true,
-        // speed: 300,
+        speed: 1500,
         slidesToShow: 1,
         slidesToScroll: 1,
-        arrows: false,
+        arrows: false, 
+        autoplay: true,
+        autoplaySpeed: 4000,
+        pauseOnHover: false
     });
     $('.parallax-window').parallax();
 

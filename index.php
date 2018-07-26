@@ -2,12 +2,12 @@
     include_once("header.php");
 ?>
     <section class="slider_home full_min_h w_100">
-        <div class="img_fondo full_min_h" data-image="images/images_wp/generica.jpeg">
+        <div class="img_fondo full_min_h" data-image="images/images_wp/slide2.jpeg">
             <div class="section_middle_center w_100 full_min_h">
                 <h3>¿Estás lista para descubrir la mejor versión de ti?</h3>
             </div>
         </div>
-        <div class="img_fondo full_min_h" data-image="images/images_wp/generica.jpeg">
+        <div class="img_fondo full_min_h" data-image="images/images_wp/slide1.jpeg">
             <div class="section_middle_center w_100 full_min_h">
                 <h3>¿Estás lista para descubrir la mejor versión de ti?</h3>
             </div>
