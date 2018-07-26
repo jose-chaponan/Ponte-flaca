@@ -2,11 +2,12 @@
     include_once("header.php");
 ?>
     <section class="habitos section_middle_center w_100 ">
-        <h2>5 pasos para reinventar </br>los hábitos alimenticios</h2>
+        <h2>5 pasos para reinventar los hábitos alimenticios</h2>
         <section class="section_top_center w_90 portadas_blog parallax-container" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/blog3.jpg"></section>
         <article class="section_top_justify w_80">
                 <div>
-                    <p>21 Feb 5 pasos para reinventar los hábitos alimenticios</br> Creado el: 00:47h in Uncategorized por ponte ﬂaca 0 Comentarios  1 Like Comparte</p>
+                    <p>21 Feb 5 pasos para reinventar los hábitos alimenticios</p>
+                    <p> Creado el: 00:47h in Uncategorized por ponte ﬂaca 0 Comentarios  1 Like Comparte</p>
                     <p>Hoy desde Ponte Flaca te compartimos 5 pasos para reinventar los hábitos alimenticios y decirle “adiós a la cruel dieta”</p>
                     <p>-No a las dietas. Sí, empezamos por olvidarnos de las dietas, de privarnos y sufrir, innecesariamente, por lo que no podemos comer. Es mejor entender que todos los cuerpos no funcionan igual y que necesitas ser consciente de cómo funciona tu organismo para darle aquello que le va a permitir sentirse y verse mejor.</p>
                     <p>-¡Toma desayuno porfavor! Cuántas veces sales corriendo de casa al trabajo y de camino desayunas lo que encuentres, obvio no es un kekito o cereal saludable y terminamos comiendo productos envasados con alto contenido de azúcar. Si te identiﬁcas, es momento de parar con ese mal hábito de una vez por todas.</p>

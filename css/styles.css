@@ -327,7 +327,10 @@ body {
   }
 
   .conoce_ponteFlaca {
-    margin-bottom: 10vw;
+    margin-top: 1vw;
+  }
+  .conoce_ponteFlaca div {
+    width: 50%;
   }
   .conoce_ponteFlaca h2 {
     color: #434040;
@@ -353,16 +356,15 @@ body {
     font-size: 1.5rem;
     text-align: justify;
     width: 90%;
-    margin-bottom: 30vh;
   }
   .conoce_ponteFlaca img {
     width: 70%;
   }
+  .conoce_ponteFlaca article {
+    margin-bottom: 5vh;
+  }
   .conoce_ponteFlaca article h3 {
     font-size: 3rem;
-  }
-  .conoce_ponteFlaca article p {
-    margin-bottom: 10vh;
   }
   .conoce_ponteFlaca .conoce_ponteFlaca:last-child {
     margin-bottom: 0;
@@ -397,13 +399,14 @@ body {
     font-family: "DJBMessyAmandaGoesBold";
     text-align: center;
     color: #91c100;
+    width: 46%;
   }
   .habitos div {
     margin-top: 10vh;
   }
   .habitos p {
     font-size: 1.4rem;
-    margin-bottom: 6vh;
+    margin-bottom: 4vh;
   }
   .habitos strong {
     color: #91c100;
@@ -739,7 +742,7 @@ body {
   }
   .habitos p {
     font-size: 2.2rem;
-    line-height: 3vw;
+    line-height: 1.5;
   }
   .habitos strong {
     font-size: 2.5rem;
@@ -747,6 +750,7 @@ body {
 
   .blog_habitos h2 {
     font-size: 8rem;
+    width: 65%;
   }
   .blog_habitos p {
     font-size: 2.5rem;

@@ -2,23 +2,26 @@
     include_once("header.php");
 ?>
     <section class="conoce_ponteFlaca section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="bottom" data-image-src="images/images_wp/team.jpg">
-        <div>
-            <h2>Toda aventura </br>empieza con un</h2>
+        <div class="conoce_ponteFlaca">
+            <h2>Toda aventura empieza con un</h2>
             <h3>¡Sí puedo!</h3>
-            <h4>Conoce un poco más de nosotras y aventúrate</br> a un nuevo y saludable estilo de vida.</h4>
+            <h4>Conoce un poco más de nosotras y aventúrate a un nuevo y saludable estilo de vida.</h4>
         </div>
     </section>
 
     <section class="conoce_ponteFlaca section_top_center">
-        <img src="images/images_wp/profile.jpg">
             <article class="section_top_center">
+                <img src="images/images_wp/profile.jpg">
+                <p>&nbsp;</p>
                 <h3>Carmen Soca</h3>
                 <p>¡Hola!, Soy Carmen Soca, Coach PNL especializada en salud y bienestar, certiﬁcada por el Instituto IPPNL. Me apasiona la alimentación sana, natural, el ﬁtness y el bienestar. Como tu “Health Coach”, seré tu guía personal para que puedas vivir una vida llena de energía y vitalidad, ayudándote a encontrar de una manera entretenida y ﬂexible, aquellos alimentos y estilos de alimentación que te permitan llegar a descubrir ser la mejor versión de ti mismo. </br>¿Estás lista? Dile sí a un nuevo estilo de vida saludable ;)</p>
             </article>
-        <img src="images/images_wp/profile.jpg">
             <article class="section_top_center">
+                <img src="images/images_wp/profile.jpg">
+                <p>&nbsp;</p>
                 <h3>Claudia Salas</h3>
-                <p>¡Hola!, Soy Claudia Salas, Coach PNL y Psicóloga Clínica con amplia experiencia, capaz de motivarte y apoyarte en el logro de tus sueños y metas personales, vinculados con una alimentación sana, ejercicio saludable, así como tu bienestar emocional y manejo de estrés. </br>Mi principal tarea es apoyarte en el fortalecimiento de la autoestima (empowerment), de manera que descubras los recursos, habilidades y potencialidades con las que cuentas para lograr lo que quieres y deseas en tu vida personal, afectiva, laboral, social y familiar.¡Vamos! una alimentación emocional, beneﬁcia enormemente nuestra salud :)</p>
+                <p>¡Hola!, Soy Claudia Salas, Coach PNL y Psicóloga Clínica con amplia experiencia, capaz de motivarte y apoyarte en el logro de tus sueños y metas personales, vinculados con una alimentación sana, ejercicio saludable, así como tu bienestar emocional y manejo de estrés.</p> 
+                <p>Mi principal tarea es apoyarte en el fortalecimiento de la autoestima (empowerment), de manera que descubras los recursos, habilidades y potencialidades con las que cuentas para lograr lo que quieres y deseas en tu vida personal, afectiva, laboral, social y familiar.¡Vamos! una alimentación emocional, beneﬁcia enormemente nuestra salud :)</p>
                 </article>
     </section>
 
