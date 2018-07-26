@@ -489,6 +489,11 @@ body {
   }
   .formulario section article aside a svg .rss_footer {
     fill: #ffffff;
+    transition: all ease-in-out 0.4s;
+  }
+  .formulario section article aside a:hover svg .rss_footer {
+    fill: #C6D147;
+    transition: all ease-in-out 0.4s;
   }
   .formulario section form {
     width: 100%;
@@ -531,8 +536,20 @@ body {
   .logo_footer img {
     width: 80%;
   }
-  .logo_footer .suscribete_footer img {
+  .logo_footer .suscribete_footer a svg {
     width: 60%;
+  }
+  .logo_footer .suscribete_footer a svg .rss_header {
+    fill: #91c100;
+    transition: all ease-in-out 0.3s;
+  }
+  .logo_footer .suscribete_footer a svg .color_blanco {
+    fill: #ffffff;
+    transition: all ease-in-out 0.3s;
+  }
+  .logo_footer .suscribete_footer a:hover svg .rss_header {
+    fill: #B8D841;
+    transition: all ease-in-out 0.3s;
   }
 
   .derechos {
@@ -767,9 +784,9 @@ body {
   .formulario section form input {
     padding: 1vw 1.5vw;
   }
-  .formulario section article input[type="submit"],
-  .formulario section form input[type="submit"] {
-    width: 40%;
+  .formulario section article input[type=submit],
+  .formulario section form input[type=submit] {
+    width: 35%;
   }
   .formulario section article label,
   .formulario section form label {
@@ -789,9 +806,10 @@ body {
   .logo_footer img {
     width: 18%;
   }
-  .logo_footer .suscribete_footer img {
+  .logo_footer .suscribete_footer a svg {
+    margin-top: 1vw;
+    margin-bottom: 1vw;
     width: 11%;
-    margin-bottom: 2vh;
   }
 
   .derechos {

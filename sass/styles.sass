@@ -419,6 +419,12 @@ body
                             height: 7vh
                             .rss_footer
                                 fill: $color_blanco
+                                transition: all ease-in-out .4s
+                    a:hover
+                        svg
+                            .rss_footer
+                                fill: $color_verde_hover
+                                transition: all ease-in-out .4s
             form
                 width: 100%
                 margin-top: 5vw
@@ -454,8 +460,20 @@ body
         img
             width: 80%
         .suscribete_footer
-            img
-                width: 60%
+            a
+                svg
+                    width: 60%
+                    .rss_header
+                        fill: $color_verde
+                        transition: all ease-in-out .3s
+                    .color_blanco
+                        fill: $color_blanco
+                        transition: all ease-in-out .3s
+            a:hover
+                svg
+                    .rss_header
+                        fill: $color_verde_lima
+                        transition: all ease-in-out .3s
     .derechos
         background-color: $color_gris
         // padding: 2vh 2%
@@ -655,8 +673,8 @@ body
 
                 input
                     padding: 1vw 1.5vw
-                input[type="submit"]
-                    width: 40%
+                input[type=submit]
+                    width: 35%
                 label
                     font-size: 2.2rem
 
@@ -672,9 +690,11 @@ body
         img
             width: 18%
         .suscribete_footer
-            img
-                width: 11%
-                margin-bottom: 2vh
+            a
+                svg
+                    margin-top: 1vw
+                    margin-bottom: 1vw
+                    width: 11%
     
     .derechos
         display: flex
