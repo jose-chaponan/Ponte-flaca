@@ -35,6 +35,22 @@ body {
 }
 
 @media all and (min-width: 1px) {
+  .slick-dots {
+    bottom: 3vh;
+  }
+  .slick-dots li {
+    width: 5vw;
+    height: 5vw;
+    background-color: #B8D841;
+    border-radius: 50%;
+  }
+  .slick-dots li button {
+    opacity: 0;
+  }
+  .slick-dots .slick-active {
+    background-color: #91c100;
+  }
+
   .img_fondo {
     background-position: center;
     background-repeat: no-repeat;
@@ -134,10 +150,11 @@ body {
   }
   .slider_home .img_fondo h3 {
     font-family: "DJBMessyAmandaGoesBold";
-    font-size: 8.4rem;
-    width: 31%;
+    font-size: 5rem;
+    width: 80%;
     text-align: center;
     line-height: 1;
+    margin-top: 40vw;
   }
 
   .team {
@@ -555,6 +572,11 @@ body {
   }
 }
 @media all and (min-width: 1024px) {
+  .slick-dots li {
+    width: 2vw;
+    height: 2vw;
+  }
+
   nav {
     margin-top: 1vw;
   }
@@ -583,6 +605,11 @@ body {
 
   .slider_home .img_fondo {
     background-size: 100%;
+  }
+  .slider_home .img_fondo h3 {
+    font-size: 8.4rem;
+    width: 31%;
+    margin-top: 0;
   }
 
   .team a {

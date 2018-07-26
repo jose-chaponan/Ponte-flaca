@@ -21,6 +21,17 @@ body
     font-size: 1.6rem
 
 @media all and (min-width: 1px)
+    .slick-dots
+        bottom: 3vh
+        li
+            width: 5vw
+            height: 5vw
+            background-color: $color_verde_lima
+            border-radius: 50%
+            button
+                opacity: 0
+        .slick-active
+            background-color: $color_verde
     .img_fondo
         background-position: center
         background-repeat: no-repeat
@@ -107,10 +118,11 @@ body
             background-size: auto 100%
             h3
                 font-family: $fuente_Goes_bold
-                font-size: 8.4rem
-                width: 31%
+                font-size: 5rem
+                width: 80%
                 text-align: center
                 line-height: 1
+                margin-top: 40vw
                 
     .team
         background-color: $color_blanco
@@ -482,6 +494,10 @@ body
         width: 50%
 
 @media all and (min-width: 1024px)
+    .slick-dots
+        li
+            width: 2vw
+            height: 2vw
     nav
         margin-top: 1vw
         section
@@ -505,6 +521,10 @@ body
     .slider_home
         .img_fondo
             background-size: 100%
+            h3
+                font-size: 8.4rem
+                width: 31%
+                margin-top: 0
 
     .team
         a

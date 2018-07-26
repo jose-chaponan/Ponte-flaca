@@ -7,6 +7,11 @@
                 <h3>¿Estás lista para descubrir la mejor versión de ti?</h3>
             </div>
         </div>
+        <div class="img_fondo full_min_h" data-image="images/images_wp/generica.jpeg">
+            <div class="section_middle_center w_100 full_min_h">
+                <h3>¿Estás lista para descubrir la mejor versión de ti?</h3>
+            </div>
+        </div>
     </section>
 
     <section class="section_middle_center w_100 team">
