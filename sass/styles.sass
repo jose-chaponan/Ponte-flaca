@@ -21,6 +21,17 @@ body
     font-size: 1.6rem
 
 @media all and (min-width: 1px)
+    .slick-dots
+        bottom: 3vh
+        li
+            width: 5vw
+            height: 5vw
+            background-color: $color_gris
+            border-radius: 50%
+            button
+                opacity: 0
+        .slick-active
+            background-color: $color_verde
     .img_fondo
         background-position: center
         background-repeat: no-repeat
@@ -71,6 +82,7 @@ body
                     color: $color_verde
         aside
             border-left: 0px solid $color_verde
+            border-left-width: 1px
             // padding-left: 1.5vw
             // margin-left: 1.5vw
             width: 100%
@@ -80,12 +92,19 @@ body
                 svg
                     height: 4vh
                     width: auto
-                    transition: all ease-in-out
-
+                    transition: all ease-in-out .3s
                     .rss_header
                         fill: $color_verde
+                        transition: all ease-in-out .3s
                     .color_blanco
                         fill: $color_blanco
+                        transition: all ease-in-out .3s
+            a:hover
+                svg
+                    transition: all ease-in-out .3s
+                    .rss_header
+                        fill: $color_verde_lima
+                        transition: all ease-in-out .3s
             .suscribete
                 svg
                     height: 5.5vh
@@ -97,6 +116,14 @@ body
             width: 100%
             height: 100vh
             background-size: auto 100%
+            h3
+                font-family: $fuente_Goes_bold
+                font-size: 5rem
+                width: 80%
+                text-align: center
+                line-height: 1
+                margin-top: 40vw
+                
     .team
         background-color: $color_blanco
         z-index: 2
@@ -342,6 +369,7 @@ body
         width: 80%
 
     .instagram
+        background-color: $color_blanco
         .logo_instagram
             width: 20%
             // margin: 15vh 0 5vh
@@ -391,6 +419,12 @@ body
                             height: 7vh
                             .rss_footer
                                 fill: $color_blanco
+                                transition: all ease-in-out .4s
+                    a:hover
+                        svg
+                            .rss_footer
+                                fill: $color_verde_hover
+                                transition: all ease-in-out .4s
             form
                 width: 100%
                 margin-top: 5vw
@@ -426,8 +460,20 @@ body
         img
             width: 80%
         .suscribete_footer
-            img
-                width: 60%
+            a
+                svg
+                    width: 60%
+                    .rss_header
+                        fill: $color_verde
+                        transition: all ease-in-out .3s
+                    .color_blanco
+                        fill: $color_blanco
+                        transition: all ease-in-out .3s
+            a:hover
+                svg
+                    .rss_header
+                        fill: $color_verde_lima
+                        transition: all ease-in-out .3s
     .derechos
         background-color: $color_gris
         // padding: 2vh 2%
@@ -467,28 +513,47 @@ body
         width: 50%
 
 @media all and (min-width: 1024px)
+    .slick-dots
+        li
+            width: 1.3vw
+            height: 1.3vw
     nav
+        margin-top: 1vw
         section
             width: initial
         .logo
             margin: 0
         aside
             width: initial
+            a
+                margin: 0 .8vw
+            .suscribete
+                svg
+                    height: 5vh
         .menu
             width: initial
-            padding: 0
+            padding: 0,
+            li
+                a
+                    font-size: 2rem
 
     .slider_home
         .img_fondo
             background-size: 100%
+            h3
+                font-size: 8.4rem
+                width: 31%
+                margin-top: 0
 
     .team
         a
             width: 55%
             overflow: inherit
+            img
+                width: 90%
 
     h2
-        font-size: 6rem
+        font-size: 4.7rem
 
     .servicios
         width: 70%
@@ -522,6 +587,8 @@ body
         article
             width: 55%
             background-size: 100% 100%
+            h3
+                font-size: 4.7rem
             ul
                 li
                     font-size: 2.2rem
@@ -549,6 +616,7 @@ body
         h3
             margin-top: -2vh
             margin-bottom: 7vh
+            font-size: 3rem
         section
             width: 70%
             a
@@ -558,6 +626,9 @@ body
                     height: 30vh
                 h4
                     display: flex
+                    font-size: 3rem
+                .contenido
+                    font-size: 1.5rem
     .habitos
         margin-top: 20vh
 
@@ -594,15 +665,23 @@ body
 
     .formulario
         h2
-            font-size: 5.5rem
+            font-size: 4.7rem
         section
             article,
             form
                 width: 48%
 
+                input
+                    padding: 1vw 1.5vw
+                input[type=submit]
+                    width: 35%
+                label
+                    font-size: 2.2rem
+
             article
                 p
                     font-size: 2.3rem
+                    width: 93%
             form
                 margin-top: 0
 
@@ -611,9 +690,11 @@ body
         img
             width: 18%
         .suscribete_footer
-            img
-                width: 11%
-                margin-bottom: 2vh
+            a
+                svg
+                    margin-top: 1vw
+                    margin-bottom: 1vw
+                    width: 11%
     
     .derechos
         display: flex
