@@ -662,6 +662,9 @@ body {
     width: 55%;
     background-size: 100% 100%;
   }
+  .brindamos article h3 {
+    font-size: 4.7rem;
+  }
   .brindamos article ul li {
     font-size: 2.2rem;
   }
@@ -688,6 +691,7 @@ body {
   .blog h3 {
     margin-top: -2vh;
     margin-bottom: 7vh;
+    font-size: 3rem;
   }
   .blog section {
     width: 70%;
@@ -701,6 +705,10 @@ body {
   }
   .blog section a h4 {
     display: flex;
+    font-size: 3rem;
+  }
+  .blog section a .contenido {
+    font-size: 1.5rem;
   }
 
   .habitos {
