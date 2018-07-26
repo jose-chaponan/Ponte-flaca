@@ -101,13 +101,22 @@ body {
   nav aside a svg {
     height: 4vh;
     width: auto;
-    transition: all ease-in-out;
+    transition: all ease-in-out 0.3s;
   }
   nav aside a svg .rss_header {
     fill: #91c100;
+    transition: all ease-in-out 0.3s;
   }
   nav aside a svg .color_blanco {
     fill: #ffffff;
+    transition: all ease-in-out 0.3s;
+  }
+  nav aside a:hover svg {
+    transition: all ease-in-out 0.3s;
+  }
+  nav aside a:hover svg .rss_header {
+    fill: #B8D841;
+    transition: all ease-in-out 0.3s;
   }
   nav aside .suscribete svg {
     height: 5.5vh;
