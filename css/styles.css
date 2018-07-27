@@ -769,6 +769,7 @@ body {
   }
   .habitos article {
     margin-top: 3vw;
+    width: 70%;
   }
   .habitos p {
     font-size: 1.5rem;
