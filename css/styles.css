@@ -679,6 +679,10 @@ body {
   .conoce_ponteFlaca p {
     font-size: 1.5rem;
   }
+  .conoce_ponteFlaca article {
+    width: 60%;
+    margin-bottom: 8vh;
+  }
   .conoce_ponteFlaca article h3 {
     font-size: 8rem;
   }
