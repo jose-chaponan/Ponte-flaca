@@ -21,6 +21,12 @@ body
     font-size: 1.6rem
 
 @media all and (min-width: 1px)
+    .hide_movile
+        display: none
+
+    .hide_escritorio
+        display: block
+
     .slick-dots
         bottom: 3vh
         li
@@ -130,7 +136,7 @@ body
         position: relative
         padding: 5vh 0
         a
-            width: 90%
+            width: 100%
             display: block
             position: relative
             overflow: hidden
@@ -144,23 +150,20 @@ body
             background-repeat: no-repeat
             background-size: 100%
             background-position: center
-            width: 140%
-            height: 70vh
+            width: 100%
+            height: 100%
             position: absolute
             top: 0
             bottom: 0
-            left: -20%
+            left: 0
             right: 0
             margin: auto
             transition: all ease-in-out .4s
 
         a::before
-            background-image: url(../images/back-team.svg)
+            background-image: url(../images/back_team_responsive.svg)
             z-index: 1
-        a::after
-            background-image: url(../images/back-team_hover.svg)
-            opacity: 0
-            z-index: 2
+
         a:hover::after
             transition: all ease-in-out .4s
             opacity: 1
@@ -530,6 +533,11 @@ body
         width: 50%
 
 @media all and (min-width: 1024px)
+    .hide_movile
+        display: block
+    .hide_escritorio
+        display: none
+
     .slick-dots
         li
             width: 1.3vw
@@ -569,6 +577,28 @@ body
             overflow: inherit
             img
                 width: 90%
+        a::before,
+        a::after
+            content: ""
+            background-repeat: no-repeat
+            background-size: 100%
+            background-position: center
+            width: 140%
+            height: 70vh
+            position: absolute
+            top: 0
+            bottom: 0
+            left: -20%
+            right: 0
+            margin: auto
+            transition: all ease-in-out .4s
+
+        a::before
+            background-image: url(../images/back-team.svg)
+        a::after
+            background-image: url(../images/back-team_hover.svg)
+            opacity: 0
+            z-index: 2
 
     h2
         font-size: 4.7rem
