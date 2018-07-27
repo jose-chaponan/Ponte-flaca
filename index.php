@@ -82,7 +82,7 @@
                 </div>
             </a>
             <a href="detalle_blog_universo.php">
-                <div class="img_fondo" data-image="images/images_wp/blog4.jpg">&nbsp;</div>
+                <div class="img_fondo" data-image="images/images_wp/flaca.jpeg">&nbsp;</div>
                 <h4 class="w_70 section_middle_center">Universo Ponte Flaca</h4>
                 <div class="contenido w_90">
                     Mi nombre es Carmen y soy quién administra el universo llamado “Ponte Flaca” Desde siempre sentí la curiosidad por la cocina, porque amo comer y además porque me parecía un lugar mágico donde entraban frutas, vegetales, y salían platos deliciosos. De grande me aventuré...

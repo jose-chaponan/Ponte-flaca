@@ -1,4 +1,4 @@
-        <a href="" class="whatsapp" data-minwidth="40"><img src="images/whatsapp.svg" alt=""></a>
+        <a href="https://api.whatsapp.com/send?phone=+51949371522&text=Hola, quisiera ponerme en contacto con ustedes" target="_blank" class="whatsapp" data-minwidth="40"><img src="images/whatsapp.svg" alt=""></a>
         <section class="w_100 formulario section_top_center">
             <section class="section_middle_justify">
                 <h2 class="w_100 align_center">¿Tienes alguna consulta?</h2>
@@ -11,7 +11,7 @@
                     </p>
                     <h4>Síguenos también en:</h4>
                     <aside class="section_middle_left follow_to">
-                        <a href="#">
+                        <a href="https://www.instagram.com/Ponteflaca.oficial/" target="_blank">
                             <!-- Instagram -->
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                 viewBox="0 0 33.1 32.2" xml:space="preserve">
@@ -29,7 +29,7 @@
                                 </g>
                             </svg>
                         </a>
-                        <a href="#">
+                        <a href="https://www.facebook.com/ponteflacaoficial/" target="_blank">
                             <!-- facebook -->
                             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                 viewBox="0 0 17.8 32.2" xml:space="preserve">
