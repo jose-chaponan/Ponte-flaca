@@ -353,6 +353,7 @@ body {
     margin-bottom: 30vw;
   }
   .conoce_ponteFlaca p {
+    font-family: "ScotiabankModern";
     font-size: 1.5rem;
     text-align: justify;
     width: 90%;
@@ -660,25 +661,26 @@ body {
 
   .conoce_ponteFlaca h2 {
     margin-top: 13vw;
-    font-size: 9rem;
+    font-size: 8.4rem;
     line-height: 1;
     margin-bottom: 2vw;
+    width: 80%;
   }
   .conoce_ponteFlaca h3 {
     font-size: 10rem;
   }
   .conoce_ponteFlaca h4 {
-    font-size: 2.7rem;
+    font-size: 3rem;
     margin-bottom: 7vw;
   }
   .conoce_ponteFlaca img {
     width: 20%;
   }
   .conoce_ponteFlaca p {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
   .conoce_ponteFlaca article h3 {
-    font-size: 10rem;
+    font-size: 8rem;
   }
 
   .brindamos article {
