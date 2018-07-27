@@ -82,7 +82,7 @@ body
                     color: $color_verde
         aside
             border-left: 0px solid $color_verde
-            border-left-width: 1px
+            
             // padding-left: 1.5vw
             // margin-left: 1.5vw
             width: 100%
@@ -223,6 +223,10 @@ body
                     padding: .2vw 0
                     font-size: 1.6rem
                     font-weight: 100
+    .title_blog
+        h3
+            font-family: $fuente_Goes_bold
+            font-size: 10rem
 
     .blog
         h3
@@ -318,12 +322,15 @@ body
             font-size: 4rem
         p
             // font-size: 2.5rem
+            font-family: $fuente_ScotiabankModern
             font-size: 1.6rem
             text-align: justify
             // width: 70%
             width: 100%
             margin-top: 5vh
             // line-height: 5vh
+        img
+            width: 100%
         a
             color: $color_blanco
             border: 2px solid
@@ -331,12 +338,15 @@ body
             padding: 2vh 6vh 2vh 6vh
             border-radius: 2vh
             // font-size: 2rem
-            font-size: 1.8rem
+            font-size: 1.6rem
             // margin-top: 10vh
-            margin: 2vh 0 5vh
+            margin: 5vh 0 5vh
 
     .habitos
         margin-top: 35vh
+        article
+            margin-top: 5vw
+            width: 80%
         h2
             font-family: $fuente_Goes_bold
             text-align: center
@@ -346,7 +356,7 @@ body
         div
             margin-top: 10vh
         p
-            // font-size: 2.2rem
+            font-family: $fuente_ScotiabankModern
             font-size: 1.4rem
             margin-bottom: 4vh
             // line-height: 3vw
@@ -354,17 +364,20 @@ body
             color: $color_verde
             // font-size: 2.5rem
             font-size: 1.4rem
-            line-height: 8vh
+            line-height: 1.5
         h3
-            font-size: 1.5em
+            font-size: 1.5rem
+            width: 100%
         a
             color: $color_blanco
             border: 2px solid
             background-color: $color_verde_frm
             padding: 2vh 6vh 2vh 6vh
             border-radius: 2vh
-            font-size: 2.0rem
+            font-size: 1.5rem
             margin-bottom: 3vh
+        a:hover
+            background-color: $color_verde
 
     section
         width: 80%
@@ -526,6 +539,7 @@ body
             margin: 0
         aside
             width: initial
+            border-left-width: 1px
             a
                 margin: 0 .8vw
             .suscribete
@@ -615,6 +629,10 @@ body
         article::after
             background-image: url(../images/brindamos-right.svg)
             right: -25%
+    .title_blog
+        h3 
+            font-size: 21rem
+
 
     .blog
         h3
@@ -635,27 +653,35 @@ body
                     font-size: 1.5rem
     .habitos
         margin-top: 20vh
-
-        div
-            margin-top: 10vh
+        article
+            margin-top: 3vw
+        
         p
-            font-size: 2.2rem
-            line-height: 1.5
+            font-size: 1.5rem
+            margin-bottom: 1vw
+            width: 100%
         strong
-            font-size: 2.5rem
+            font-size: 1.5rem
 
+        h2
+            font-size: 8rem
+    .portadas_blog
+        width: 80%
     .blog_habitos
         h2
             font-size: 8rem
             width: 65%
         p
-            font-size: 2.5rem
-            width: 70%
+            font-size: 1.5rem
+            width: 60%
             margin-top: 5vh
-            line-height: 5vh
+            // line-height: 5vh
         a
             font-size: 2rem
-            margin: 10vh 0 5vh
+            margin: 3vw 0 2vw
+            font-size: 1.5rem
+        a:hover
+            background-color: $color_verde
 
     .instagram
         .logo_instagram

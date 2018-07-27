@@ -3,9 +3,8 @@
 ?>
     <section class="habitos section_middle_center w_100 ">
         <h2>5 pasos para reinventar los hábitos alimenticios</h2>
-        <section class="section_top_center w_90 portadas_blog parallax-container" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/blog3.jpg"></section>
-        <article class="section_top_justify w_80">
-                <div>
+        <section class="section_top_center portadas_blog parallax-container" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/blog3.jpg"></section>
+        <article class="section_top_justify">
                     <p>21 Feb 5 pasos para reinventar los hábitos alimenticios</p>
                     <p> Creado el: 00:47h in Uncategorized por ponte ﬂaca 0 Comentarios  1 Like Comparte</p>
                     <p>Hoy desde Ponte Flaca te compartimos 5 pasos para reinventar los hábitos alimenticios y decirle “adiós a la cruel dieta”</p>
@@ -19,9 +18,9 @@
                     <strong>No hay comentarios aún </br>Escribe un comentario </br>Conectado como ponte ﬂaca. ¿Quieres salir?</strong>
 
                     <h3>Escribe tu comentario aquí</h3>
-                </div>
+                
                 <div class="section_bottom_center w_100">
-                    <a href="#">Enviar</a>
+                    <a href="#">Enviar >></a>
                 </div>
         </article>
     </section>
