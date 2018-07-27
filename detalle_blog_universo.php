@@ -3,7 +3,7 @@
 ?>
     <section class="habitos section_middle_center w_100 ">
         <h2>Universo ponte flaca</h2>
-        <section class="section_top_center portadas_blog parallax-container" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/blog4.jpg"></section>
+        <section class="section_top_center portadas_blog parallax-container" data-speed=".7" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/flaca.jpeg"></section>
         <article class="section_top_justify">
                     <p>21 Feb 5 pasos para reinventar los hábitos alimenticios</p>
                     <p> Creado el: 00:47h in Uncategorized por ponte ﬂaca 0 Comentarios  1 Like Comparte</p>

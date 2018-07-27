@@ -11,13 +11,17 @@
 
     <section class="conoce_ponteFlaca section_top_center">
             <article class="section_top_center">
-                <img src="images/images_wp/profile.jpg">
+                <div class="perfil_team section_middle_center">
+                    <img src="images/images_wp/flaca2.jpeg">
+                </div>
                 <p>&nbsp;</p>
                 <h3>Carmen Soca</h3>
                 <p>¡Hola!, Soy Carmen Soca, Coach PNL especializada en salud y bienestar, certiﬁcada por el Instituto IPPNL. Me apasiona la alimentación sana, natural, el ﬁtness y el bienestar. Como tu “Health Coach”, seré tu guía personal para que puedas vivir una vida llena de energía y vitalidad, ayudándote a encontrar de una manera entretenida y ﬂexible, aquellos alimentos y estilos de alimentación que te permitan llegar a descubrir ser la mejor versión de ti mismo. </br>¿Estás lista? Dile sí a un nuevo estilo de vida saludable ;)</p>
             </article>
             <article class="section_top_center">
-                <img src="images/images_wp/profile.jpg">
+                <div class="perfil_team section_middle_center">
+                    <img src="images/images_wp/flaca2.jpeg">
+                </div>
                 <p>&nbsp;</p>
                 <h3>Claudia Salas</h3>
                 <p>¡Hola!, Soy Claudia Salas, Coach PNL y Psicóloga Clínica con amplia experiencia, capaz de motivarte y apoyarte en el logro de tus sueños y metas personales, vinculados con una alimentación sana, ejercicio saludable, así como tu bienestar emocional y manejo de estrés.</p> 

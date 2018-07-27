@@ -366,7 +366,13 @@ body {
     width: 90%;
   }
   .conoce_ponteFlaca img {
-    width: 70%;
+    width: 100%;
+  }
+  .conoce_ponteFlaca .perfil_team {
+    width: 70vw;
+    height: 70vw;
+    overflow: hidden;
+    border-radius: 50%;
   }
   .conoce_ponteFlaca article {
     margin-bottom: 5vh;
@@ -730,7 +736,12 @@ body {
     margin-bottom: 7vw;
   }
   .conoce_ponteFlaca img {
-    width: 35%;
+    width: auto;
+    height: 100%;
+  }
+  .conoce_ponteFlaca .perfil_team {
+    width: 20vw;
+    height: 20vw;
   }
   .conoce_ponteFlaca p {
     font-size: 1.5rem;

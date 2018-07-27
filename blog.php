@@ -2,7 +2,7 @@
     include_once("header.php");
 ?>
         <section class="section_middle_center w_100 ">
-            <section class="section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/background_blog.jpg">
+            <section class="section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/blogportada.jpeg">
                 <div class="section_middle_center full_min_h title_blog">
                     <h3>Blog</h3>
                 </div>
@@ -16,7 +16,7 @@
                 </div>
 
                 <h2>Universo Ponte Flaca</h2>
-                <img src="images/images_wp/blog2.jpg" width="90%">
+                <img src="images/images_wp/flaca.jpeg" width="90%">
                 <p>Mi nombre es Carmen y soy quién administra el universo llamado “Ponte Flaca” Desde siempre sentí la curiosidad por la cocina, porque amo comer y además porque me parecía un lugar mágico donde entraban frutas y vegetales y salían platos deliciosos. De grande me aventuré a..</p>
                 <div class="section_bottom_center w_100">
                     <a href="detalle_blog_universo.php">Seguir leyendo >></a>
