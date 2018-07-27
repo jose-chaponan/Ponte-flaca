@@ -53,7 +53,7 @@
     </section>
 
     <section class="brindamos section_middle_center">
-        <article>
+        <article class="section_middle_center">
             <h3>Te brindamos</h3>
             <ul>
                 <li>Clases de cocina saludable. </li>
