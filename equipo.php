@@ -10,7 +10,7 @@
     </section>
 
     <section class="conoce_ponteFlaca section_top_center">
-            <article class="section_top_center">
+            <article class="section_top_center" data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                 <div class="perfil_team section_middle_center">
                     <img src="images/images_wp/flaca2.jpeg">
                 </div>
@@ -18,7 +18,7 @@
                 <h3>Carmen Soca</h3>
                 <p>¡Hola!, Soy Carmen Soca, Coach PNL especializada en salud y bienestar, certiﬁcada por el Instituto IPPNL. Me apasiona la alimentación sana, natural, el ﬁtness y el bienestar. Como tu “Health Coach”, seré tu guía personal para que puedas vivir una vida llena de energía y vitalidad, ayudándote a encontrar de una manera entretenida y ﬂexible, aquellos alimentos y estilos de alimentación que te permitan llegar a descubrir ser la mejor versión de ti mismo. </br>¿Estás lista? Dile sí a un nuevo estilo de vida saludable ;)</p>
             </article>
-            <article class="section_top_center">
+            <article class="section_top_center" data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                 <div class="perfil_team section_middle_center">
                     <img src="images/images_wp/flaca2.jpeg">
                 </div>
@@ -29,7 +29,7 @@
                 </article>
     </section>
 
-    <section class="instagram section_top_center w_100">
+    <section class="instagram section_top_center w_100" data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
         <img src="images/instagram.svg" alt="Instagram" class="logo_instagram" data-minwidth="80">
         <h3 class="w_100 align_center">Síguenos en Instagram</h3>
         <div id="instagram" class="w_100 section_top_center">

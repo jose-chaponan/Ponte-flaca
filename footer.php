@@ -1,8 +1,8 @@
         <a href="https://api.whatsapp.com/send?phone=+51949371522&text=Hola, quisiera ponerme en contacto con ustedes" target="_blank" class="whatsapp" data-minwidth="40"><img src="images/whatsapp.svg" alt=""></a>
         <section class="w_100 formulario section_top_center">
             <section class="section_middle_justify">
-                <h2 class="w_100 align_center">¿Tienes alguna consulta?</h2>
-                <article>
+                <h2 class="w_100 align_center" data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">¿Tienes alguna consulta?</h2>
+                <article data-aos-delay="700" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                     <h3>¡Muchas gracias por visitar Ponte Flaca! :)</h3>
                     <p>Si tienes alguna colsulta, no dudes en comunicarte con nosotras.<br>
                         Te estaremos respondiendo a la brevedad posible ;)</p>
@@ -39,7 +39,7 @@
                         </a>
                     </aside>
                 </article>
-                <form class="section_top_center" action="index.html" method="post">
+                <form class="section_top_center" action="index.html" method="post" data-aos-delay="1000" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                     <label class="w_95">Nombre</label>
                     <input type="text" name="" class="w_100">
                     <label class="w_95">Correo</label>
@@ -54,7 +54,7 @@
                 </form>
             </section>
         </section>
-        <div class="w_100 section_top_center logo_footer">
+        <div class="w_100 section_top_center logo_footer" data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
             <img src="images/logo.png" alt="">
             <div class="w_100 align_center suscribete_footer">
                 <a href="">
