@@ -9,7 +9,7 @@
 		<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
         <link rel="stylesheet" href="plugins/slick/slick.css">
         <link rel="stylesheet" href="plugins/slick/slick-theme.css">
-        <link rel="stylesheet" href="css/styles.min.css?ver=1.4.1">
+        <link rel="stylesheet" href="css/styles.min.css?ver=1.4.2">
 
         <script src="https://code.jquery.com/jquery-3.3.1.min.js" charset="utf-8"></script>
         <script src="http://bastemp.com/js/bastemp.min.js?ver=1.1.2" charset="utf-8"></script>

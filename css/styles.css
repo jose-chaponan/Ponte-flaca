@@ -376,7 +376,7 @@ body {
     border-radius: 50%;
   }
   .conoce_ponteFlaca article {
-    margin-bottom: 5vh;
+    margin: 8vh 0;
   }
   .conoce_ponteFlaca article h3 {
     font-size: 3rem;
@@ -749,7 +749,7 @@ body {
   }
   .conoce_ponteFlaca article {
     width: 60%;
-    margin-bottom: 3vw;
+    margin: 3vw 0;
   }
   .conoce_ponteFlaca article h3 {
     font-size: 8rem;
