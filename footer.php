@@ -4,7 +4,7 @@
                 <h2 class="w_100 align_center" data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">¿Tienes alguna consulta?</h2>
                 <article data-aos-delay="700" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                     <h3>¡Muchas gracias por visitar Ponte Flaca! :)</h3>
-                    <p>Si tienes alguna colsulta, no dudes en comunicarte con nosotras.<br>
+                    <p>Si tienes alguna consulta, no dudes en comunicarte con nosotras.<br>
                         Te estaremos respondiendo a la brevedad posible ;)</p>
                     <p>Teléfono: 992 035 932<br>
                         Correo: <a href="mailto:hola@ponteﬂaca.pe">hola@ponteﬂaca.pe</a>
@@ -121,6 +121,21 @@
                         </svg>
                     </a>
             </div>
+            <a class="w_100 section_top_center up ancla" href="#topHome">
+                <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 129 129" style="enable-background:new 0 0 129 129;" xml:space="preserve">
+                <style type="text/css">
+                    .starrow{fill:#91C100;}
+                </style>
+                <g>
+                    <g>
+                        <path class="starrow" d="M122.6,64.5c0-32-26-58.1-58.1-58.1S6.4,32.5,6.4,64.5s26.1,58.1,58.1,58.1S122.6,96.5,122.6,64.5z
+                            M14.6,64.5C14.6,37,37,14.6,64.5,14.6s49.9,22.4,49.9,49.9S92,114.4,64.5,114.4S14.6,92,14.6,64.5z"/>
+                        <path class="starrow" d="M93.5,77.9c0.8-0.8,1.2-1.8,1.2-2.9c0-1-0.4-2.1-1.2-2.9L67.1,45.7c-0.8-0.8-1.8-1.2-2.9-1.2
+                            s-2.1,0.4-2.9,1.2L34.9,72.1c-1.6,1.6-1.6,4.2,0,5.8s4.2,1.6,5.8,0l23.5-23.5l23.5,23.5C89.3,79.5,91.9,79.5,93.5,77.9z"/>
+                    </g>
+                </g>
+                </svg>
+            </a>
         </div>
         <div class="derechos section_middle_justify w_100">
             <img src="images/lengua.svg" alt="">
