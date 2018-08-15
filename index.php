@@ -67,11 +67,11 @@
         </article>
     </section>
 
-    <section class="blog section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="bottom" data-image-src="images/background_blog.jpg">
+    <section class="blog section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="bottom" data-image-src="images/sliderfondoBlog.jpg">
         <h2 class="w_80 align_center" data-aos-delay="300" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">Blog</h2>
         <h3>En este espacio compartiré mis consejos y recetas.</h3>
         <section class="section_top_justify">
-            <a href="detalle_blog_universo.php">
+            <a href="detalle_blog_habitos.php">
                 <div class="img_fondo" data-image="images/images_wp/blog3.jpg">&nbsp;</div>
                 <h4 class="w_70 section_middle_center" data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">5 Pasos para reinventar los hábitos alimenticios</h4>
                 <div class="contenido w_90" data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">

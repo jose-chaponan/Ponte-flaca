@@ -2,7 +2,7 @@
     include_once("header.php");
 ?>
         <section class="section_middle_center w_100 ">
-            <section class="section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/blogportada.jpeg">
+            <section class="section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="center" data-image-src="images/images_wp/sliderBLOG.jpg">
                 <div class="section_middle_center full_min_h title_blog">
                     <h3>Blog</h3>
                 </div>
