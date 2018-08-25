@@ -12,7 +12,7 @@
                 <h3>¡Comer rico y sano no es nada complicado!</h3>
             </div>
         </div>
-        <div class="img_fondo full_min_h" data-image="images/images_wp/slider03.jpg">
+        <div class="img_fondo full_min_h" data-image="images/images_wp/slider-mac.jpg">
             <div class="section_middle_center w_100 full_min_h">
                 <!-- <h3>¿Estás lista para descubrir la mejor versión de ti?</h3> -->
             </div>
@@ -30,7 +30,7 @@
         <h2 class="w_80 align_center" data-aos-delay="300" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">Nuestros Principales Servicios</h2>
         <div class="servicios section_top_justify">
             <article data-aos-delay="500" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
-                <div class="img_fondo" data-image="images/images_wp/health-coach.png">&nbsp;</div>
+                <div class="img_fondo" data-image="images/images_wp/health-coach.jpg">&nbsp;</div>
                 <h3>Health Coach</h3>
                 <p>
                     Te ayudaremos a realizar cambios progresivos y duraderos para una vida más saludable. En nuestras sesiones de coaching trabajaremos en metas a corto y largo plazo que incluyen: Bajar de peso, recuperar tu energía, mejorar y equilibrar tu estado físico y mental, para de esta manera lograr tu <strong>BIENESTAR</strong>.
@@ -40,7 +40,7 @@
                 </p>
             </article>
             <article data-aos-delay="700" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
-                <div class="img_fondo" data-image="images/images_wp/psicologia-nutricional.png">&nbsp;</div>
+                <div class="img_fondo" data-image="images/images_wp/psicologia-nutricional.jpg">&nbsp;</div>
                 <h3>Psicología Nutricional</h3>
                 <p>
                     Aunque no lo creas, la psicología es relevante para mejorar nuestra alimentación, es por ello esta frase tan cierta que dice...<br> <strong>“Somos lo que comemos”</strong>.
