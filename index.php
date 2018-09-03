@@ -55,15 +55,17 @@
     <section class="brindamos section_middle_center">
         <article class="section_middle_center" data-aos-delay="300" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
             <h3>Te brindamos</h3>
-            <ul>
-                <li>Clases de cocina saludable. </li>
-                <li>¡Vamos al mercado!</li>
-                <li>Ejercicios out - door.</li>
-                <li>Sesiones para el Manejo de la ansiedad por comer.</li>
-                <li>Sesiones para el Manejo del estrés en su vida personal.</li>
-                <li>Sesiones para el Fortalecimiento de su Autoestima.</li>
-                <li>Sesiones para conseguir un alto motivación y disfrute que le permita lograr metas vinculadas con el campo salud.</li>
-            </ul>
+            <div class="textwidget">
+                <ul>
+                    <li>Clases de cocina saludable. </li>
+                    <li>¡Vamos al mercado!</li>
+                    <li>Ejercicios out - door.</li>
+                    <li>Sesiones para el Manejo de la ansiedad por comer.</li>
+                    <li>Sesiones para el Manejo del estrés en su vida personal.</li>
+                    <li>Sesiones para el Fortalecimiento de su Autoestima.</li>
+                    <li>Sesiones para conseguir un alto motivación y disfrute que le permita lograr metas vinculadas con el campo salud.</li>
+                </ul>
+            </div>
         </article>
     </section>
 

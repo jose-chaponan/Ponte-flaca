@@ -265,10 +265,13 @@ body {
     text-align: center;
     font-size: 3.5rem;
   }
+  .brindamos article .textwidget {
+    width: 70%;
+  }
   .brindamos article ul {
     list-style: disc;
     margin-left: 3vw;
-    width: 70%;
+    width: 100%;
   }
   .brindamos article ul li {
     color: #ffffff;
