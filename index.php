@@ -71,7 +71,9 @@
 
     <section class="blog section_top_center w_100 parallax-container full_min_h" data-speed=".5" data-parallax="scroll" data-position="bottom" data-image-src="images/sliderfondoBlog.jpg">
         <h2 class="w_80 align_center" data-aos-delay="300" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-easing="ease-out-cubic" data-aos-duration="1000">Blog</h2>
+        <div class="textwidget">           
         <h3>En este espacio compartiré mis consejos y recetas.</h3>
+        </div>
         <section class="section_top_justify">
             <a href="detalle_blog_habitos.php">
                 <div class="img_fondo" data-image="images/images_wp/blog3.jpg">&nbsp;</div>

@@ -286,10 +286,13 @@ body {
     font-size: 10rem;
   }
 
+  .blog .textwidget {
+    width: 80%;
+  }
   .blog h3 {
     font-size: 2.5rem;
     margin: 0;
-    width: 80%;
+    width: 100%;
     text-align: center;
     color: #91c100;
   }
@@ -342,6 +345,9 @@ body {
   }
   .conoce_ponteFlaca div {
     width: 50%;
+  }
+  .conoce_ponteFlaca .textwidget {
+    width: 100%;
   }
   .conoce_ponteFlaca h2 {
     color: #434040;
@@ -795,6 +801,14 @@ body {
   .brindamos article::after {
     background-image: url(../images/brindamos-right.svg);
     right: -25%;
+  }
+
+  .portada_blog {
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+    position: absolute;
+    z-index: 2;
   }
 
   .title_blog h3 {
